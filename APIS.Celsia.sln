@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsia.RestAP.Nomina", "Celsia.RestAP.Nomina\Celsia.RestAP.Nomina.csproj", "{792ACC0B-6B8D-4C74-9DA5-BF9749CADCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792ACC0B-6B8D-4C74-9DA5-BF9749CADCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792ACC0B-6B8D-4C74-9DA5-BF9749CADCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792ACC0B-6B8D-4C74-9DA5-BF9749CADCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792ACC0B-6B8D-4C74-9DA5-BF9749CADCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAFFD18-9EA5-47A8-9597-97D562F9ADE2}
+	EndGlobalSection
+EndGlobal
